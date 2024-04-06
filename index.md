@@ -1,7 +1,3 @@
----
----
-
-@import "{{ site.theme }}";
 ## Welcome to My GitHub Page
 
 You can find the documents regarding my homework assignments below.
