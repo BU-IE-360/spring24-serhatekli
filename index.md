@@ -8,4 +8,6 @@ You can find the documents regarding my homework assignments below.
 * [The R code](https://bu-ie-360.github.io/spring24-serhatekli/ie360_hw1.R)
 
 ### Project
-* [The .ipynb file](https://bu-ie-360.github.io/spring24-serhatekli/project/IE360_project.ipynb)
+* [Report](https://bu-ie-360.github.io/spring24-serhatekli/project/IE360_project.html)
+* [Code](https://bu-ie-360.github.io/spring24-serhatekli/project/IE360_project.ipynb)
+
